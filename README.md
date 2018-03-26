@@ -7,6 +7,7 @@
 [![codecov](https://codecov.io/gh/grpc-ecosystem/go-grpc-middleware/branch/master/graph/badge.svg)](https://codecov.io/gh/grpc-ecosystem/go-grpc-middleware)
 [![Apache 2.0 License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![quality: production](https://img.shields.io/badge/quality-production-orange.svg)](#status)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmichaelpjohnson%2Fgo-grpc-middleware.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmichaelpjohnson%2Fgo-grpc-middleware?ref=badge_shield)
 
 
 [gRPC Go](https://github.com/grpc/grpc-go) Middleware: interceptors, helpers, utilities.
@@ -84,3 +85,6 @@ Additional tooling will be added, and contributions are welcome.
 ## License
 
 `go-grpc-middleware` is released under the Apache 2.0 license. See the [LICENSE](LICENSE) file for details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmichaelpjohnson%2Fgo-grpc-middleware.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmichaelpjohnson%2Fgo-grpc-middleware?ref=badge_large)
